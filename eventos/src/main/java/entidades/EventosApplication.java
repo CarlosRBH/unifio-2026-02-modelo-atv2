@@ -1,4 +1,4 @@
-package br.edu.unifio.eventos;
+package entidades;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
